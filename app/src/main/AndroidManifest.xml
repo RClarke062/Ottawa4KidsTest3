@@ -78,7 +78,7 @@
         </activity>
 
         <activity
-            android:name="com.robboapps.ottawa4kidstest3.WhereActivity"
+            android:name=".WhereActivity"
             android:label="@string/title_activity_where">
             <intent-filter>
                 <action android:name="com.robboapps.ottawa4kidstest3.WhereActivity" />
